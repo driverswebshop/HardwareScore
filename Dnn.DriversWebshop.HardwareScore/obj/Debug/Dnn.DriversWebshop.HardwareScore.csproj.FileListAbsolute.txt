@@ -1,0 +1,10 @@
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\bin\Dnn.DriversWebshop.HardwareScore.dll.config
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\bin\Dnn.DriversWebshop.HardwareScore.dll
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\bin\Dnn.DriversWebshop.HardwareScore.pdb
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\Dnn.DriversWebshop.HardwareScore.csproj.AssemblyReference.cache
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\DriversWebshop.Dnn.Dnn.DriversWebshop.HardwareScore.App_LocalResources.Settings.resources
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\Dnn.DriversWebshop.HardwareScore.csproj.GenerateResource.cache
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\Dnn.DriversWebshop.HardwareScore.csproj.CoreCompileInputs.cache
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\Dnn.Driv.29B83BEB.Up2Date
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\Dnn.DriversWebshop.HardwareScore.dll
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-hardwarescore\Dnn.DriversWebshop.HardwareScore\obj\Debug\Dnn.DriversWebshop.HardwareScore.pdb
