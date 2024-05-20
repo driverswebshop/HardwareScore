@@ -1,5 +1,5 @@
-﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'{databaseOwner}[{objectQualifier}Dnn.DriversWebshop.HardwareBenchmark_Items]') AND type in (N'U'))
-DROP TABLE {databaseOwner}[{objectQualifier}Dnn.DriversWebshop.HardwareBenchmark_Items]
+﻿IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'{databaseOwner}[{objectQualifier}Dnn.DriversWebshop.HardwareScore_Items]') AND type in (N'U'))
+DROP TABLE {databaseOwner}[{objectQualifier}Dnn.DriversWebshop.HardwareScore_Items]
 GO
 
 IF EXISTS (SELECT * FROM dbo.sysobjects WHERE id = object_id(N'{databaseOwner}[{objectQualifier}module_cpu_benchmarks]') and OBJECTPROPERTY(id, N'IsTable') = 1)
